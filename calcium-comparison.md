@@ -28,10 +28,11 @@ ranchero beans | 50mg | 4%
 ## resources for recommended daily intake
 
 [first google link](https://www.healthline.com/nutrition/15-calcium-rich-foods)
-:::
-*
-The recommended daily intake (RDI) of calcium is 1,000 mg per day for most adults,  
+::: quote
+*The recommended daily intake (RDI) of calcium is 1,000 mg per day for most adults,  
 though women over 50 and everyone over 70 should get 1,200 mg per day,  
-while children aged 4–18 are advised to consume 1,300 mg.
-*
+while children aged 4–18 are advised to consume 1,300 mg.*
 :::
+
+[gov source](https://ods.od.nih.gov/factsheets/Calcium-HealthProfessional/#h3)
+
